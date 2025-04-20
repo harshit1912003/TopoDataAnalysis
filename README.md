@@ -4,6 +4,9 @@ This repository contains the work for our self-study project for MTL782 under Pr
 
 We were also instructed by the professor to hold a class presentation to share our findings and results with classmates.
 
+![img](curx.png)
+
+
 ## Motivation
 
 Traditional clustering algorithms like K-Means often struggle with non-convex cluster shapes, while density-based methods like DBSCAN can have difficulty with varying densities or hierarchical structures. Mode-seeking methods like Mean Shift can be sensitive to noise and parameter choices.
