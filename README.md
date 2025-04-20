@@ -4,7 +4,7 @@ This repository contains the work for our self-study project for MTL782 under Pr
 
 We were also instructed by the professor to hold a class presentation to share our findings and results with classmates.
 
-![img](.\curx.png)
+![img](curx.png)
 
 
 ## Motivation
